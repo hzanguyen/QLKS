@@ -14,5 +14,10 @@ namespace DAL
             string info = CheckLogicDTO(taikhoan);
             return info;
         }
+        public void loadTaiKhoan(TaiKhoan taikhoan,string username)
+        {
+            loadTaiKhoanDTO(taikhoan,username);
+            
+        }
     }
 }

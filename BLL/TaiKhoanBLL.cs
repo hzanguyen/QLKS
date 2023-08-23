@@ -27,5 +27,9 @@ namespace BLL
             string info = tkAccess.CheckLogic(taikhoan);
             return info;
         }
+        public void loadTaiKhoan(TaiKhoan tk,string username)
+        {
+            tkAccess.loadTaiKhoan(tk, username);
+        }
     }
 }

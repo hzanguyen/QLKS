@@ -34,6 +34,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,7 +44,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChiTietHD.cs" />
+    <Compile Include="CHITIETPHIEUTHUE.cs" />
+    <Compile Include="HoaDon.cs" />
+    <Compile Include="KhachHang.cs" />
+    <Compile Include="LoaiKhach.cs" />
+    <Compile Include="LoaiPhong.cs" />
+    <Compile Include="PhieuThue.cs" />
+    <Compile Include="Phong.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuyDinh.cs" />
     <Compile Include="TaiKhoan.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

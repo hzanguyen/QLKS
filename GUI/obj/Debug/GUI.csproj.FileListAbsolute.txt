@@ -51,3 +51,39 @@ C:\Users\HP\Documents\QLKS\GUI\bin\Debug\DAL.pdb
 C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.Properties.Resources.resources
 C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
 C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.TrangChu.resources
+C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.BaoCaoMatDo.resources
+C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.BaoCaoPhong.resources
+C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.PhieuThuePhongHien.resources
+C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.frmHoaDon.resources
+C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.DamhMucPhong.resources
+C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.ThayDoiQuyDinh.resources
+C:\Users\HP\Documents\QLKS\GUI\obj\Debug\GUI.PhieuTP.resources
+C:\Users\HP\Documents\QLKS\GUI\bin\Debug\DAL.dll.config
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\bin\Debug\GUI.exe.config
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\bin\Debug\GUI.exe
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\bin\Debug\GUI.pdb
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\bin\Debug\BLL.dll
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\bin\Debug\DTO.dll
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\bin\Debug\DAL.dll
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\bin\Debug\BLL.pdb
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\bin\Debug\DAL.pdb
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\bin\Debug\DAL.dll.config
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.BaoCaoMatDo.resources
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.BaoCaoPhong.resources
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.DamhMucPhong.resources
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.frmHoaDon.resources
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.PhieuTP.resources
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.PhieuThuePhongHien.resources
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.ThayDoiQuyDinh.resources
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.TrangChu.resources
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.exe
+C:\Users\HP\Documents\Zalo Received Files\QLKS\GUI\obj\Debug\GUI.pdb

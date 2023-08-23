@@ -47,21 +47,94 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaoCaoMatDo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoMatDo.Designer.cs">
+      <DependentUpon>BaoCaoMatDo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCaoPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoPhong.Designer.cs">
+      <DependentUpon>BaoCaoPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DamhMucPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DamhMucPhong.Designer.cs">
+      <DependentUpon>DamhMucPhong.cs</DependentUpon>
+    </Compile>
     <Compile Include="DangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="DangNhap.Designer.cs">
       <DependentUpon>DangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="GLOBAL.cs" />
+    <Compile Include="frmHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoaDon.Designer.cs">
+      <DependentUpon>frmHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuThuePhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhieuThuePhong.Designer.cs">
+      <DependentUpon>PhieuThuePhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuThuePhongHien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhieuThuePhongHien.Designer.cs">
+      <DependentUpon>PhieuThuePhongHien.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThayDoiQuyDinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThayDoiQuyDinh.Designer.cs">
+      <DependentUpon>ThayDoiQuyDinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrangChu.Designer.cs">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BaoCaoMatDo.resx">
+      <DependentUpon>BaoCaoMatDo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoPhong.resx">
+      <DependentUpon>BaoCaoPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DamhMucPhong.resx">
+      <DependentUpon>DamhMucPhong.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DangNhap.resx">
       <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoaDon.resx">
+      <DependentUpon>frmHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuThuePhong.resx">
+      <DependentUpon>PhieuThuePhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuThuePhongHien.resx">
+      <DependentUpon>PhieuThuePhongHien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThayDoiQuyDinh.resx">
+      <DependentUpon>ThayDoiQuyDinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrangChu.resx">
+      <DependentUpon>TrangChu.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -93,6 +166,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

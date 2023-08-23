@@ -42,8 +42,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaoCaoAccess.cs" />
+    <Compile Include="ChiTietHDAccess.cs" />
+    <Compile Include="ChiTietPhieuThuAccess.cs" />
     <Compile Include="DatabaseAccess.cs" />
+    <Compile Include="HoaDonAccess.cs" />
+    <Compile Include="KhachHangAccess.cs" />
+    <Compile Include="LoadPhongAccess.cs" />
+    <Compile Include="LoaiKhachAcess.cs" />
+    <Compile Include="PhieuThueAccess.cs" />
+    <Compile Include="PhongAccess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="QuyDinhAccess.cs" />
     <Compile Include="TaiKhoanAcess.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -51,6 +66,13 @@
       <Project>{549272a1-bbe4-442f-90e2-0997010fe465}</Project>
       <Name>DTO</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

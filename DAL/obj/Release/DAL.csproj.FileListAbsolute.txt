@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\QLKS\DAL\bin\Release\DAL.dll.config
+C:\Users\HP\Documents\QLKS\DAL\bin\Release\DAL.dll
+C:\Users\HP\Documents\QLKS\DAL\bin\Release\DAL.pdb
+C:\Users\HP\Documents\QLKS\DAL\bin\Release\DTO.dll
+C:\Users\HP\Documents\QLKS\DAL\bin\Release\DTO.pdb
+C:\Users\HP\Documents\QLKS\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\QLKS\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\QLKS\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\HP\Documents\QLKS\DAL\obj\Release\DAL.dll
+C:\Users\HP\Documents\QLKS\DAL\obj\Release\DAL.pdb

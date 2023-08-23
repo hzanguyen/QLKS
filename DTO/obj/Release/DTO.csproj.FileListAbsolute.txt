@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\QLKS\DTO\bin\Release\DTO.dll
+C:\Users\HP\Documents\QLKS\DTO\bin\Release\DTO.pdb
+C:\Users\HP\Documents\QLKS\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\QLKS\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\QLKS\DTO\obj\Release\DTO.dll
+C:\Users\HP\Documents\QLKS\DTO\obj\Release\DTO.pdb

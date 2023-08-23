@@ -34,6 +34,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,7 +44,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaoCaoBLL.cs" />
+    <Compile Include="ChiTietHDBLL.cs" />
+    <Compile Include="ChiTietPHieuThueBLL.cs" />
+    <Compile Include="HoaDonBLL.cs" />
+    <Compile Include="KhachHangBLL.cs" />
+    <Compile Include="LoaiPhongBLL.cs" />
+    <Compile Include="LoaiKhachBLL.cs" />
+    <Compile Include="PhieuThuBLL.cs" />
+    <Compile Include="PhongBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuyDinhBLL.cs" />
     <Compile Include="TaiKhoanBLL.cs" />
   </ItemGroup>
   <ItemGroup>
